@@ -1,0 +1,8 @@
+1.What kind of information is stored in a table, in your opinion and why
+	Server configurations, object information and user information - in order of it to be saved
+2.What kind of information is not stored in a table in your opinion and why
+	Design - Because it is not need to be saved in the data base (it's not data)
+3.Create a visual representation of the tables, including the types of the coulmns.
+	I used Access - the file is uploaded in git
+4. Create the tables in your own local database, and write down the commands that you have used.  
+	The commands I used: CREATE TABLE, PRIMARY KEY, FOREIGN KEY, REFERENCES.
